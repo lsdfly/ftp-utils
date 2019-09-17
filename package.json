@@ -1,0 +1,20 @@
+{
+  "name": "ftp-utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ftp",
+    "utils",
+    "node-ftp",
+    "ftp-server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
